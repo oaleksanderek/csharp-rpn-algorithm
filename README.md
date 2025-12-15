@@ -25,4 +25,4 @@ opisane w Zadaniu 1.
 ## UWAGA
 Rozwiązanie powinno być zbudowane zgodnie z zasadami [SOLID](https://www.samouczekprogramisty.pl/solid-czyli-dobre-praktyki-w-programowaniu-obiektowym/).
 
-Zadanie zostało wykonane na potrzeby laboratoriów na Uniwersytecie Gdańskim
+## Zadanie zostało wykonane na potrzeby laboratoriów na Uniwersytecie Gdańskim
