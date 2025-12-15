@@ -1,17 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/_kBeo2El)
-# Odwrotna Notacja Polska
-
-| Termin oddania      | Punkty     |
-|---------------------|:-----------|
-|    26.10.2024 23:00 |   10        |
-
---- 
-Przekroczenie terminu o **n** zajęć wiąże się z karą:
-- punkty uzyskania za realizację zadania są dzielone przez **2<sup>n</sup>**.
-
---- 
-
-
 ## Zadanie 1 (Red)
 Bazując na zadanej definicji stosów,
 napisać testu funkcji `evalRPN`, która pobiera napis będący zapisem wyrażenia arytmetycznego 
@@ -38,3 +24,5 @@ opisane w Zadaniu 1.
 
 ## UWAGA
 Rozwiązanie powinno być zbudowane zgodnie z zasadami [SOLID](https://www.samouczekprogramisty.pl/solid-czyli-dobre-praktyki-w-programowaniu-obiektowym/).
+
+Zadanie zostało wykonane na potrzeby laboratoriów na Uniwersytecie Gdańskim
